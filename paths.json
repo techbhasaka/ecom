@@ -9,6 +9,6 @@
   ],
   "includes": [
     "/content/aem-boilerplate/",
-    "/content/aem-boilerplate/home"
+    "/content/aem-boilerplate/home/"
   ]
 }
